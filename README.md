@@ -5,7 +5,7 @@ If you get stuck, I would look at these this resources list first before spoilin
 1. [recentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks)
 2. [Blocksec Article](https://blocksecteam.medium.com/when-safemint-becomes-unsafe-lessons-from-the-hypebears-security-incident-2965209bda2a) (More specifically `onERC721Received()`)
 
-I like to throw it in Remix to play around with it and is how I like to mess with POC. Hope this helps and have fun with it.
+I like to throw it in Remix to play around with it. Hope this helps and have fun with it!
 
 ## Capture the Flag
 
