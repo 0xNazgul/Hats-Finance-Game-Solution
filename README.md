@@ -1,9 +1,10 @@
 # Hats Challenge #1
 
-## Challange Solution (Spoilers)
-If you get stuck, I would look at these this resorce list first before spoiling it completly for yourself. 
+## Challenge Solution (Spoilers)
+If you get stuck, I would look at these this resources list first before spoiling it completely for yourself. 
 1. [recentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks)
-2. [Blocksec Article](https://blocksecteam.medium.com/when-safemint-becomes-unsafe-lessons-from-the-hypebears-security-incident-2965209bda2a) (More specificly `onERC721Received()`)
+2. [Blocksec Article](https://blocksecteam.medium.com/when-safemint-becomes-unsafe-lessons-from-the-hypebears-security-incident-2965209bda2a) (More specifically `onERC721Received()`)
+
 I like to throw it in Remix to play around with it and is how I like to mess with POC. Hope this helps and have fun with it.
 
 ## Capture the Flag
@@ -31,4 +32,3 @@ Your mission is to obtain the flag: i.e. `game.flagHolder()` should return an ad
 - Solutions must be submitted through the hats application at https://app.hats.finance/vulnerability
 - You must submit a working demonstration of the solution. This could be, for example, a hardhat project in which you fork mainnet and provide a script that will obtain the flag.
 - The contract is deployed on rinkeby: https://rinkeby.etherscan.io/address/0x9E4c331120448816450615349BD25605e4A2049E . However, if you do not want to give away the solution to your competitors, do not execute anything on-chain :)
-
